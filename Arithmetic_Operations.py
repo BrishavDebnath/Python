@@ -71,13 +71,11 @@ if temp >= 40 and temp <=50:
   print("it is too hot today!")
   print("take enough fluids.")
 elif temp>=30:
-  print("It is awesme today!")
+  print("It is awesome today!")
 elif temp <=20:
   print("It's cool")
 elif temp >30 and temp <40:
   print("It is hot today!")
-elif temp >=50:
-  print("You're Dead Lmao!")
 else:
   print("Enjoy whatever it is!")
 
