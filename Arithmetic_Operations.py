@@ -66,7 +66,7 @@ print(type(temp))  #finding type of a data type
 
 
 
-#7
+#6
 temp=float(input("Enter the temperature:"))
 print(temp>5 and temp<10)
 print(temp>30 or temp<=40)
