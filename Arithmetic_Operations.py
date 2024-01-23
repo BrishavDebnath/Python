@@ -65,21 +65,6 @@ print( not temp==30)
 print(type(temp))  #finding type of a data type
 
 
-#6
-temp=float(input("Enter the temperature: "))
-if temp >= 40 and temp <=50:
-  print("it is too hot today!")
-  print("take enough fluids.")
-elif temp>=30:
-  print("It is awesome today!")
-elif temp <=20:
-  print("It's cool")
-elif temp >30 and temp <40:
-  print("It is hot today!")
-else:
-  print("Enjoy whatever it is!")
-
-
 
 #7
 temp=float(input("Enter the temperature:"))
