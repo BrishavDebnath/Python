@@ -16,7 +16,7 @@ while (cmd.upper() != "EXIT"):
       print("The car has already stopped")
       repeat=False
   elif cmd.upper()=="HELP":
-    print("1.start=Car will start\n2.Stop=Car will start\n3.Exit=To exit the program")
+    print("1.start=Car will start\n2.Stop=Car will stop\n3.Exit=To exit the program")
   elif cmd.upper()=="EXIT":
     print("Thanks for playing!")
     break
